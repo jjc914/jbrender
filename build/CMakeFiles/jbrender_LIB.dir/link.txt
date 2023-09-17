@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libjbrender_LIB.a CMakeFiles/jbrender_LIB.dir/lib/input/input.c.o CMakeFiles/jbrender_LIB.dir/lib/linalg/linalg.c.o CMakeFiles/jbrender_LIB.dir/lib/meshtools/fileobj.c.o CMakeFiles/jbrender_LIB.dir/lib/meshtools/mesh.c.o CMakeFiles/jbrender_LIB.dir/src/render/screen.c.o CMakeFiles/jbrender_LIB.dir/src/render/world.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libjbrender_LIB.a
