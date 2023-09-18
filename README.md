@@ -13,9 +13,6 @@ For the time being, the rasterizer lacks significant optimization. Furthermore, 
 ```
 git clone https://github.com/jjc914/jbrender.git
 ```
-```
-mkdir build
-```
 2. Make a build folder within the project folder and change directory:
 ```
 mkdir build
